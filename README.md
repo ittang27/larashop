@@ -12,7 +12,7 @@ Requirement
 <li>PHP 7++</li>
 <li>Mysql</li>
 <li>Laravel Framework lastest updated</li>
-
+<br>
 Getting Start
 
 <b>Install</b>
